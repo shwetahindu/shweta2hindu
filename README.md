@@ -1,48 +1,76 @@
-# 👋 Hi, I’m Shweta Sharma  
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C4CC&height=200&section=header&text=Shweta%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-## 💡 About Me  
-I am a **Data Professional** with 11 years of experience in **India** and the **UAE**, delivering impactful data-driven solutions across **Retail, BFSI, and Telecom** sectors. My expertise lies in **customer analytics**, **churn prediction**, **CLV modeling**, **campaign optimization**, and **personalized recommendation engines**.  
-
-Currently, I’m leveraging **Machine Learning**, **MLOps**, and **LLM-powered applications** to design scalable, real-time solutions that drive measurable business impact.  
-
----
-
-## 🚀 Key Capabilities  
-- **Advanced Analytics & Machine Learning**: Regression, Classification, Time Series, NLP, Clustering, Survival Models, Churn Prediction  
-- **Recommendation Engines**: Personalized offers & product suggestions with measurable lift in conversion  
-- **Conversational AI & LLMs**: RAG-based chatbot development, prompt engineering, context retrieval  
-- **MLOps & Deployment**: CI/CD pipelines, model versioning, monitoring, automated retraining  
-- **Business Intelligence**: Power BI dashboards, campaign performance tracking, actionable insights  
-- **Programming & Tools**: Python, SQL, PySpark, SAS, Databricks, Power BI  
-- **Cloud & Data Platforms**: Integration with real-time and batch processing systems  
+<h3 align="center">💡 Data Scientist | AI Innovator | 11+ Years of Experience</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shweta2sharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shwetasharma021090@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shweta-sharma&color=blue" alt="Profile views" />
+</p>
 
 ---
 
-## 🏆 Career Highlights  
-- **2% increase in conversion rate** via personalized financial offers for loyalty program customers at **Al-Futtaim Group**  
-- **Designed and deployed** scalable MLOps pipelines for recommendation models, ensuring continuous performance optimization  
-- **Launched RAG-based chatbot** improving task completion rates and user satisfaction  
-- **Built visualization tools** at Gartner to bridge demand-supply gaps in research, shaping annual agendas for VP Analysts  
-- **Implemented real-time decision engines** for financial offers, boosting sales conversion by 2% for a UK online retailer  
-- **Developed CLTV & churn frameworks** that guided customer retention strategies for a US telecom major  
+## 🚀 About Me
+I’m a **data professional** with **11 years** of experience across **India** and the **UAE**, delivering impactful **data-driven solutions** in **Retail, BFSI, and Telecom**.  
+I specialize in **customer analytics**, **ML-powered recommendation engines**, **CLV & churn modeling**, and **LLM-based Conversational AI**.
+
+I bridge the gap between **business goals** and **data science execution**, ensuring every model delivers measurable ROI.
 
 ---
 
-## 🎓 Education & Certifications  
-- **Advanced Program in Data Sciences** – IIM Calcutta (2023–2024)  
-- **Masters & Bachelors in Statistics** – Hindu College, Delhi University  
-- **Certified Associate in Python Programming (PCAP)** – Python Institute (2022)  
-- Institute of Actuaries of India – CT1, CT3, CT6  
+## 🛠 Skills & Expertise
+
+**💻 Programming & Tools**  
+`Python` • `SQL` • `PySpark` • `SAS` • `Databricks` • `Power BI`
+
+**📊 Data Science & ML**  
+Regression • Classification • NLP • Time Series Forecasting • Clustering • Survival Models • Churn Prediction • CLTV Modeling
+
+**🤖 AI & Automation**  
+LLMs • Retrieval-Augmented Generation (RAG) • Recommendation Engines • MLOps (CI/CD, Model Monitoring, Retraining)
+
+**☁ Cloud & Data Platforms**  
+Real-time Data Integration • Batch Processing • Data Pipeline Automation
 
 ---
 
-## 📈 Current Focus  
-- Building **next-gen recommendation systems** with LLM-powered personalization  
-- Exploring **Agentic AI** and **retrieval-augmented generation** for enterprise-scale applications  
-- Expanding **MLOps capabilities** for continuous, automated machine learning workflows  
+## 🏆 Career Highlights
+
+- 📈 **2% increase in conversion rate** via personalized financial offers at **Al-Futtaim Group**  
+- 🤖 Built a **RAG-based chatbot** that improved task completion & UX for enterprise users  
+- 📊 Designed a **visualization tool** at Gartner that shaped research agendas for VP Analysts  
+- ⚡ Created a **real-time decision engine** for financial offers, boosting sales by 2% for a UK retailer  
+- 🔍 Developed **CLTV & churn frameworks** that guided retention strategies for a US telecom major
 
 ---
 
-## 📫 Connect with Me  
-- **LinkedIn**: [linkedin.com/in/shweta2sharma](https://www.linkedin.com/in/shweta2sharma)  
-- **Email**: shwetasharma021090@gmail.com  
+## 🎓 Education & Certifications
+
+🎓 **Advanced Program in Data Sciences** – IIM Calcutta (2023–2024)  
+🎓 **Masters & Bachelors in Statistics** – Hindu College, Delhi University  
+📜 **PCAP – Certified Associate in Python Programming** – Python Institute (2022)  
+📜 Institute of Actuaries of India – CT1, CT3, CT6  
+
+---
+
+## 🌱 Currently Exploring
+- Next-gen **recommendation systems** with LLM-powered personalization  
+- **Agentic AI** for enterprise automation  
+- Advanced **MLOps** pipelines for self-learning models  
+
+---
+
+## 📫 Let’s Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/shweta2sharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shwetasharma021090@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C4CC&height=120&section=footer"/>
+</p>
